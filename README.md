@@ -23,7 +23,6 @@
 
   <p>
     <a href="#about">About</a> •
-    <a href="#features">Features</a> •
     <a href="#tech">Tech</a> •
     <a href="#setup">Setup</a>
   </p>
@@ -40,11 +39,7 @@ I built all of these back in 10th grade at school, when I first started coding b
 
 The repository holds 88 small C# projects from my Object-Oriented Programming class. Most of them are textbook exercises from the first two units, and the rest are oral exercises our teachers had us do in class. Each project is a separate Visual Studio solution.
 
-## <a id="features"></a> ✨ Features
-
-- **Unit 1 exercises**: First steps with Windows Forms. Buttons, message boxes, text boxes, list boxes, radio buttons, and check boxes, plus simple calculations such as adding two numbers, a discount calculator, and an exam net score calculator. Exercises 1–3 are not in the archive.
-- **Unit 2 exercises**: Decisions and loops. `if`/`else` and `switch` examples such as an odd or even check, a driving licence age check, and finding the day of the week, followed by `for`, `while`, and `do-while` loops, searching a list, and error handling with `try`/`catch`.
-- **Oral exercises**: Mostly console applications on object-oriented programming. Classes, constructors, `params`, inheritance, method hiding with `new`, virtual methods, abstract classes, and interfaces, along with a few forms that calculate the area and perimeter of shapes, print a multiplication table, or check a simple login.
+The first unit covers simple calculations with the basic Windows Forms controls, and the second unit covers decisions and loops. The oral exercises are mostly console applications on classes, inheritance, abstract classes, and interfaces.
 
 ## <a id="tech"></a> 🛠️ Tech
 

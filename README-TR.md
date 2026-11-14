@@ -23,7 +23,6 @@
 
   <p>
     <a href="#about">Hakkında</a> •
-    <a href="#features">Özellikler</a> •
     <a href="#tech">Teknolojiler</a> •
     <a href="#setup">Kurulum</a>
   </p>
@@ -40,11 +39,7 @@ Bu uygulamaların hepsini 10. sınıfta, ders kitabına bakarak yazılıma ilk b
 
 Depoda Nesne Tabanlı Programlama dersinden 88 küçük C# projesi var. Çoğu ders kitabının ilk iki ünitesindeki alıştırmalar, geri kalanı ise öğretmenlerimizin sınıfta yaptırdığı sözlü uygulamalar. Her proje ayrı bir Visual Studio çözümüdür.
 
-## <a id="features"></a> ✨ Özellikler
-
-- **1. Ünite uygulamaları**: Windows Forms ile ilk adımlar. Butonlar, mesaj kutuları, metin kutuları, liste kutuları, seçenek düğmeleri ve onay kutularının yanında iki sayıyı toplama, indirim hesaplama ve deneme sınavı net hesaplama gibi basit işlemler. 1–3 numaralı uygulamalar arşivde yok.
-- **2. Ünite uygulamaları**: Karar yapıları ve döngüler. Tek mi çift mi kontrolü, ehliyet yaşı kontrolü ve haftanın gününü bulma gibi `if`/`else` ve `switch` örnekleri, ardından `for`, `while` ve `do-while` döngüleri, listede arama ve `try`/`catch` ile hata yakalama.
-- **Sözlü uygulamalar**: Çoğunlukla nesne tabanlı programlama üzerine konsol uygulamaları. Sınıflar, yapıcı metotlar, `params`, kalıtım, `new` ile metot gölgeleme, sanal metotlar, soyut sınıflar ve arayüzlerin yanında şekillerin alanını ve çevresini hesaplayan, çarpım tablosu yazdıran veya basit bir giriş kontrolü yapan birkaç form.
+İlk ünitede Windows Forms'un temel kontrolleriyle basit hesaplamalar, ikinci ünitede karar yapıları ve döngüler var. Sözlü uygulamalar ise çoğunlukla sınıflar, kalıtım, soyut sınıflar ve arayüzler üzerine konsol uygulamaları.
 
 ## <a id="tech"></a> 🛠️ Teknolojiler
 
