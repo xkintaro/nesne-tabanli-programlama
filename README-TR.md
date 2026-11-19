@@ -24,14 +24,13 @@
   <p>
     <a href="#about">Hakkında</a> •
     <a href="#tech">Teknolojiler</a> •
-    <a href="#setup">Kurulum</a>
+    <a href="#setup">Kurulum</a> •
+    <a href="#gallery">Galeri</a>
   </p>
 
   <br />
   <br />
 </div>
-
-<img src="md.jpg" width="100%" />
 
 ## <a id="about"></a> 📋 Hakkında
 
@@ -69,6 +68,10 @@ Depoda Nesne Tabanlı Programlama dersinden 88 küçük C# projesi var. Çoğu d
 3. **Projeyi çalıştırın**
 
    Projeyi derleyip başlatmak için Visual Studio'da `F5` tuşuna basın.
+
+## <a id="gallery"></a> 🖼️ Galeri
+
+<img src="md.jpg" />
 
 #
 

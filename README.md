@@ -24,14 +24,13 @@
   <p>
     <a href="#about">About</a> •
     <a href="#tech">Tech</a> •
-    <a href="#setup">Setup</a>
+    <a href="#setup">Setup</a> •
+    <a href="#gallery">Gallery</a>
   </p>
 
   <br />
   <br />
 </div>
-
-<img src="md.jpg" width="100%" />
 
 ## <a id="about"></a> 📋 About
 
@@ -69,6 +68,10 @@ The first unit covers simple calculations with the basic Windows Forms controls,
 3. **Run the project**
 
    Press `F5` in Visual Studio to build and start the project.
+
+## <a id="gallery"></a> 🖼️ Gallery
+
+<img src="md.jpg" />
 
 #
 
